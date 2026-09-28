@@ -205,3 +205,4 @@ Developed a stock-market analysis project that processes market data and provide
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PRANAY-1234567\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
