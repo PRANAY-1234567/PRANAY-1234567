@@ -94,8 +94,6 @@ Performed structured manual testing of the **OpenCart e-commerce application** t
 
 ---
 
-# 📂 Other Projects
-
 ### 🌱 Real-Time Environmental Parameter Display
 
 **ESP32 + Firebase + Python + Machine Learning**
@@ -109,6 +107,8 @@ Built an IoT-based system to monitor environmental parameters such as **temperat
 * Real-time parameter display and alerts
 
 ---
+
+# 📂 Other Projects
 
 ### 🤖 Gemini Chatbot
 
