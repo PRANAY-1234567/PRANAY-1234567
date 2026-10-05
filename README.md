@@ -198,10 +198,4 @@ Developed a stock-market analysis project that processes market data and provide
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PRANAY-1234567\&theme=onedark\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=PRANAY-1234567\&label=Profile%20Views\&color=0e75b6\&style=flat)
