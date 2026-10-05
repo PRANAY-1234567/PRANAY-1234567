@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Pranay Jadhao
 
+
 ### Data Analyst | SQL | Python | Power BI | Manual Testing
 
 I’m a recent **B.E. graduate in Electronics & Telecommunication Engineering** with a strong interest in **Data Analytics, Data Engineering, and Software Testing**.
